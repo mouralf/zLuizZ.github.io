@@ -6,3 +6,5 @@ Neste repósitório colocarei meu portfolio de desenvolvedor
 Aprendi agora a criar um branch
 
 Agora vou testar o pull request
+
+Não deu certo essa merda :D
