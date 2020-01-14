@@ -1,12 +1,12 @@
-# Este é o meu primeiro repositório Git
+# Luiz Felipe
 
-Neste repósitório colocarei meu portfolio de desenvolvedor
-## Existe um arquivo com a lista de linguagens que eu programa
+## Sobre
 
-Agora vou testar o pull request
+Olá! Eu sou o Luiz e estou tentando aprender Git e GitHub.
 
-Não deu certo essa merda :D
+## Cursos de Platzi que fiz
 
-Aprendi agora a criar um branch
-
-Estou tentando editar o README.md
+-Git e GitHub
+-Marca Pessoal
+-Desenvolvimento Web
+-Freelancer
